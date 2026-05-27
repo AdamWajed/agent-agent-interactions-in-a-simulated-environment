@@ -1,6 +1,6 @@
 # Agent-Agent Interactions in a Simulated Environment
 
-This repository contains the source code, prompts and results required for the investigation, detailed in: https://AdamWajed.github.io/agent-agent-interactions-in-a-simulated-environment/
+This repository contains the source code, prompts and results required for the investigation, detailed in: https://adamwajed.github.io/Agent-Agent-Interactions-in-a-Simulated-Environment/
 
 
 
